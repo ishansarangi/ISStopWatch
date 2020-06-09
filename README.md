@@ -3,4 +3,7 @@
 This is a basic implementation of a stop watch utilizing the CA framework.
 
 ## Screenshot
-![Stop Watch](../master/images/ISStopWatch.png)<!-- .element height="50%" width="50%" -->
+<p align="center">
+  <img src="../master/images/ISStopWatch.png"height="50%" width="50%" title="Stop Watch">
+</p>
+
